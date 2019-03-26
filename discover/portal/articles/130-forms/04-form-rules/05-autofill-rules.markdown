@@ -68,7 +68,7 @@ autofill rule to display the countries of the world filtered by a Region field
 
     **Name:** `restcountries`
 
-    **URL:** `https://restcountries.eu/rest/v2/region/{region}?fields=name`
+    **URL:** `http://dummy.restapiexample.com/api/v1/employee/{id}`
 
     **Inputs:** Fill in the Label (*region*), Parameter (*region*), and Type
     (*Text*).
